@@ -16,7 +16,7 @@ public class Main{
         int localDecimal = 100;
         int localHex = 0xff;
         int localBinary = 0b1101;
-        int localOctal = 010;
+        int localOctal = 014;
         long localLong = 10000000L;
         String localString = "Every step I take gets me closer to my goal.";
 
